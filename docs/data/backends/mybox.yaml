@@ -1,0 +1,23 @@
+# Licensed under Overwatch License Revision 3 with the upstream rclone PR exception.
+# See MYBOX-LICENSE at the repository root.
+backend: mybox
+name: NAVER MYBOX
+tier: Tier 4
+maintainers: External
+features_score: 0
+integration_tests: Not tested
+data_integrity: Modtime
+performance: Not tested
+adoption: New
+docs: Full
+security: High
+virtual: false
+remote: 'TestMybox:'
+features:
+- About
+- CanHaveEmptyDirectories
+- DirCacheFlush
+- DirMove
+- Move
+hashes: []
+precision: 1000000000

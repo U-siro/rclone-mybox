@@ -1,0 +1,468 @@
+Overwatch License Revision 3  
+Copyright (c) U-siro, 2026
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the compiled binaries, source code, and documentation comprising this software (the "Software"), to use, copy, distribute, and sell copies of the Software, without any requirement to provide attribution to the copyright holder, subject to the conditions below.
+
+1. Permission to Modify
+
+Permission to modify the Software, create derivative works based upon the Software, or otherwise alter its source code is granted only to a person who, at the time the relevant modification is first made, has a Higher Competitive Rank than the copyright holder in Overwatch.
+
+For purposes of this License, "Overwatch" means the Blizzard Entertainment game currently titled "Overwatch", formerly titled "Overwatch 2", including the same continuously operated game if Blizzard Entertainment later changes, removes, replaces, or otherwise modifies its title.
+
+A modification lawfully made under this License remains authorized even if the competitive rank of either the person making the modification or the copyright holder later changes, except where permission is terminated, invalidated, or revoked under Section 20.
+
+2. Higher Competitive Rank
+
+A person has a "Higher Competitive Rank" only if the applicable requirements of this License are satisfied.
+
+Rank comparisons must use the applicable platform category, queue type, season status, and eligibility rules described below.
+
+3. Platform Categories
+
+For purposes of this License, eligible competitive ranks are divided into the following platform categories:
+
+(a) PC; and
+
+(b) Console (Cross-Platform Enabled).
+
+A competitive rank may only be compared against a rank belonging to the same platform category.
+
+PC ranks may only be compared against PC ranks.
+
+Eligible console ranks may only be compared against eligible console ranks.
+
+PC ranks and console ranks are never directly comparable for purposes of this License.
+
+4. Console Platform Category
+
+All supported console platforms shall be treated as a single combined platform category, provided that the relevant competitive rank was earned while cross-platform functionality applicable to competitive matchmaking was enabled.
+
+This combined Console (Cross-Platform Enabled) category includes, where supported by Overwatch, ranks earned on PlayStation, Xbox, Nintendo hardware, or any successor console platform.
+
+A person using one eligible console platform may compare their rank against the copyright holder's eligible console rank even if the two ranks were earned on different console hardware.
+
+For example, an eligible rank earned on PlayStation may be compared against an eligible rank earned on Xbox.
+
+The specific console manufacturer or hardware family does not affect the comparison once the rank qualifies for the Console (Cross-Platform Enabled) category.
+
+5. Ineligible Console Ranks
+
+A competitive rank earned on a console while cross-platform functionality applicable to competitive matchmaking was disabled is ineligible for all purposes under this License.
+
+An ineligible console rank:
+
+(a) shall not be used to establish a Higher Competitive Rank;
+
+(b) shall not be used as the copyright holder's reference rank;
+
+(c) shall not be compared against a PC rank;
+
+(d) shall not be compared against an eligible console rank; and
+
+(e) shall be treated as though no qualifying rank were available for that competitive category.
+
+A player may not establish permission to modify the Software by using a competitive rank obtained from a console matchmaking environment isolated by disabling cross-platform functionality.
+
+If available evidence does not reasonably establish whether a console rank was earned with the required cross-platform functionality enabled, the person relying upon that rank bears the burden of showing that the rank is eligible under this Section.
+
+6. Open Queue
+
+An Open Queue competitive rank may only be compared with another Open Queue competitive rank.
+
+The person's Open Queue rank shall be compared against the copyright holder's Open Queue rank within the same platform category.
+
+Accordingly:
+
+(a) a PC Open Queue rank may only be compared against a PC Open Queue rank; and
+
+(b) an eligible Console (Cross-Platform Enabled) Open Queue rank may only be compared against another eligible Console (Cross-Platform Enabled) Open Queue rank.
+
+A person qualifies under Open Queue only if that person's Open Queue rank is strictly higher than the copyright holder's applicable Open Queue rank.
+
+An Open Queue rank may not be compared against any Role Queue rank.
+
+7. Role Queue
+
+For Role Queue, the specific roles played by the two players do not need to match.
+
+For each player, determine that player's highest eligible Role Queue rank among all ranked roles available to that player, including Tank, Damage, and Support.
+
+The person's highest Role Queue rank shall then be compared against the copyright holder's highest Role Queue rank within the same platform category.
+
+For example, if:
+
+- the copyright holder's highest eligible Role Queue rank is Master on Support; and
+- another person's highest eligible Role Queue rank is Grandmaster on Tank,
+
+the other person has the higher Role Queue rank, regardless of the fact that the two highest ranks were earned on different roles.
+
+A player's lower-ranked roles are irrelevant once that player's highest eligible Role Queue rank has been established.
+
+A person qualifies under Role Queue only if that person's highest applicable Role Queue rank is strictly higher than the copyright holder's highest applicable Role Queue rank.
+
+A Role Queue rank may not be compared against an Open Queue rank.
+
+For console players, only eligible Console (Cross-Platform Enabled) Role Queue ranks may be considered.
+
+8. Independent Qualification Through Either Queue
+
+A person is considered to have a Higher Competitive Rank if the person qualifies under either:
+
+(a) Open Queue under Section 6; or
+
+(b) Role Queue under Section 7.
+
+It is not necessary to have a higher rank in both queue types.
+
+9. Strictly Higher Rank
+
+A rank is "higher" only if it is strictly higher under the competitive ranking system used by Overwatch at the relevant time.
+
+An equal rank does not qualify.
+
+Where ranks consist of both a tier and a division, both shall be considered according to the ordering used by Overwatch.
+
+Where the game uses divisions numbered from 5 through 1 within a tier, Division 1 shall be considered higher than Division 2, Division 2 higher than Division 3, and so forth.
+
+Grandmaster, Champion, Top 500, and any successor or replacement ranking designation shall be interpreted according to the ordinary competitive ordering used by Overwatch at the relevant time.
+
+10. General Season Rule
+
+Unless otherwise provided in this License, the competitive rank used for comparison shall be the most recent eligible competitive rank that is reasonably verifiable for the relevant player, platform category, and queue type.
+
+The copyright holder and the person seeking permission to modify the Software do not need to be in the same season or placement status.
+
+11. Copyright Holder in Placement Matches
+
+If the copyright holder is currently completing placement matches and does not yet have an established eligible rank for the current competitive season, the copyright holder's rank shall be determined using the most recent previous competitive season for which an eligible and reasonably verifiable rank is available.
+
+If no eligible rank is available from the immediately preceding season, the most recent earlier season for which such a rank is available shall be used.
+
+For Role Queue, the copyright holder's highest eligible Role Queue rank from the applicable previous season shall be used.
+
+For Open Queue, only the copyright holder's eligible Open Queue rank from the applicable previous season shall be used.
+
+A provisional, predicted, estimated, or expected placement rank of the copyright holder shall not be used unless the copyright holder expressly publishes that rank as reference evidence for purposes of this License.
+
+12. Modifier in Placement Matches
+
+If a person seeking permission to modify the Software is currently completing placement matches and does not yet have an established eligible rank for the current competitive season, that person's reasonably verifiable predicted, provisional, estimated, or expected rank may be used for purposes of determining whether that person has a Higher Competitive Rank.
+
+Because such a rank may not be displayed by OP.GG or another third-party ranking service, the person relying upon it must provide separate reasonably verifiable evidence.
+
+Such evidence may include, without limitation:
+
+(a) an in-game screenshot showing the predicted, provisional, estimated, or expected rank;
+
+(b) a video or recording showing the relevant competitive placement interface;
+
+(c) a screenshot or other record clearly identifying the player account, relevant platform category, queue type, and displayed rank estimate; or
+
+(d) other evidence sufficient to reasonably establish the predicted, provisional, estimated, or expected rank at the relevant time.
+
+The person relying upon such a rank bears the burden of establishing its authenticity and applicability.
+
+For Role Queue, the person's highest eligible established or predicted Role Queue rank among all roles shall be used.
+
+For Open Queue, only the person's eligible established or predicted Open Queue rank shall be used.
+
+If the available evidence does not reasonably establish the predicted, provisional, estimated, or expected rank, the person shall be treated as having no current qualifying rank until sufficient evidence becomes available or an established rank is assigned.
+
+13. Competitive Play Unavailable or Suspended
+
+If competitive play is temporarily suspended, disabled, unavailable, or otherwise incapable of producing a current eligible rank due to maintenance, seasonal transition, a game-wide suspension, a disabled competitive mode, technical problems, an administrative decision by Blizzard Entertainment, or any other circumstance affecting the availability of competitive ranking, the most recent previous competitive season for which an eligible and reasonably verifiable rank is available shall be used.
+
+If no eligible rank is available from the immediately preceding season, the most recent earlier season for which an eligible and reasonably verifiable rank is available shall be used.
+
+This rule applies independently to each relevant platform category and queue type.
+
+A rank from a different platform category or different queue type shall not be substituted merely because the relevant competitive category is unavailable.
+
+14. Order of Preference for Previous-Season Ranks
+
+Where this License requires use of a previous-season rank, eligible rank evidence shall be considered in the following order:
+
+(a) the most recent completed competitive season for which a qualifying rank can be reasonably verified;
+
+(b) if unavailable, the next most recent completed competitive season for which a qualifying rank can be reasonably verified; and
+
+(c) continuing backward in chronological order until qualifying evidence is found.
+
+The age of a previous-season rank does not by itself make the rank invalid, provided that it is the most recent eligible and reasonably verifiable rank available under the applicable circumstances.
+
+15. Different Placement or Season Status
+
+The copyright holder and the person seeking permission to modify the Software may be evaluated using different types of rank evidence where required by their respective status.
+
+For example:
+
+(a) if the copyright holder is in placement matches and the person seeking permission has an established current-season rank, the copyright holder's applicable previous-season rank shall be compared against the person's current-season rank;
+
+(b) if the copyright holder has an established current-season rank and the person seeking permission is in placement matches, the copyright holder's current-season rank shall be compared against the person's sufficiently evidenced predicted, provisional, estimated, or expected rank;
+
+(c) if both are in placement matches, the copyright holder's applicable previous-season rank shall be compared against the person's sufficiently evidenced predicted, provisional, estimated, or expected rank; and
+
+(d) if competitive play is unavailable for the relevant category, the applicable previous-season rules of this License shall apply.
+
+16. Later Assignment of an Established Rank
+
+If a person validly qualifies to modify the Software using a predicted, provisional, estimated, or expected placement rank under this License, a later difference between that rank and the person's final established rank does not retroactively invalidate a modification that was authorized at the time it was first made.
+
+This protection applies only where the evidence relied upon at the relevant time was genuine, the rank itself was legitimately obtained, and the evidence accurately represented rank information displayed or otherwise provided by Overwatch.
+
+Section 20 overrides this Section where cheating, manipulation, fraud, or other prohibited conduct was used to obtain or establish the relevant rank.
+
+17. Reference Time
+
+Permission to modify is determined at the time the relevant modification is first made.
+
+The copyright holder's rank for that determination shall be the most recent applicable eligible rank established under this License.
+
+The copyright holder's reference profile is:
+
+https://op.gg/ko/overwatch/detail/overview/10058064039086080162184?platform=pc
+
+The copyright holder may also provide rank screenshots or other reference evidence together with the Software.
+
+If the OP.GG profile is unavailable, private, outdated, incomplete, or otherwise incapable of establishing the copyright holder's applicable rank, a rank screenshot or other reference evidence distributed or published by the copyright holder for purposes of this License may be used instead.
+
+For Role Queue, the reference evidence shall be interpreted by identifying the copyright holder's highest applicable eligible Role Queue rank among all roles within the relevant platform category.
+
+For Open Queue, only the copyright holder's applicable eligible Open Queue rank within the relevant platform category shall be used.
+
+For console ranks, evidence must also reasonably establish that the relevant rank qualifies as a Console (Cross-Platform Enabled) rank under this License.
+
+18. Conflicting Evidence
+
+Where multiple pieces of rank evidence conflict, the most recent evidence whose date can reasonably be established shall control, unless another provision of this License expressly requires use of a previous-season rank.
+
+If the date of conflicting evidence cannot reasonably be established, the person claiming permission to modify bears the burden of demonstrating that the claimed Higher Competitive Rank existed at the relevant time.
+
+19. Proof of Rank
+
+A person relying on permission to modify, sublicense, or re-license the Software under this License should retain reasonably verifiable evidence of the rank on which that permission depends.
+
+Such evidence may include, without limitation:
+
+(a) an OP.GG profile;
+
+(b) an in-game competitive profile;
+
+(c) a Battle.net profile;
+
+(d) a dated screenshot;
+
+(e) a video or recording;
+
+(f) an archived webpage; or
+
+(g) other evidence sufficient to reasonably establish the relevant competitive rank, platform category, queue type, season or placement status, console cross-platform eligibility where applicable, and date.
+
+The copyright holder is not required to maintain the continued availability of OP.GG, Battle.net, or any other third-party service.
+
+20. Cheating, Manipulation, Fraud, and Revocation
+
+A competitive rank is eligible under this License only if it was obtained through legitimate play.
+
+A person shall not use cheating, unauthorized software, automation, exploits, matchmaking manipulation, account manipulation, rank manipulation, boosting, win trading, intentional abuse of the competitive matchmaking system, falsified evidence, or any other fraudulent or materially dishonest method for the purpose of obtaining, increasing, demonstrating, or appearing to possess a rank necessary to satisfy this License.
+
+For purposes of this Section, "cheating" includes conduct that:
+
+(a) violates the rules or competitive integrity requirements applicable to Overwatch and materially contributes to the relevant rank;
+
+(b) involves unauthorized software, scripts, bots, automation, or other tools that provide an unfair competitive advantage;
+
+(c) manipulates matchmaking, match results, accounts, or ranking data in a manner intended to artificially increase or establish the relevant rank; or
+
+(d) falsifies, alters, fabricates, or materially misrepresents evidence used to establish eligibility under this License.
+
+A rank obtained or materially affected by conduct described in this Section is ineligible and shall be treated as though it had never established a Higher Competitive Rank under this License.
+
+If a person uses such conduct for the purpose of satisfying, or attempting to satisfy, the competitive-rank condition of this License:
+
+(a) any permission to modify, create derivative works, sublicense, or re-license the Software that depended upon that rank is automatically terminated;
+
+(b) to the maximum extent permitted by applicable law, such permission shall be considered invalid from the time it was purportedly obtained;
+
+(c) any modification made solely in reliance upon that invalid permission shall not be considered an authorized modification under this License;
+
+(d) any sublicense or re-license granted solely through authority obtained from that invalid permission may be revoked, terminated, or treated as invalid to the maximum extent permitted by applicable law; and
+
+(e) the copyright holder may expressly revoke any remaining permission previously granted to that person under this License that depended upon the improperly obtained rank.
+
+This Section applies even if the cheating, manipulation, fraud, or other prohibited conduct is discovered only after the person has already modified, distributed, sublicensed, or re-licensed the Software.
+
+A later account suspension, competitive penalty, rank adjustment, leaderboard removal, or other enforcement action by Blizzard Entertainment may be used as evidence of prohibited conduct, but such action is not by itself required for this Section to apply.
+
+Likewise, the absence of enforcement action by Blizzard Entertainment does not by itself establish that the relevant rank was legitimately obtained.
+
+The person relying upon a disputed rank bears the burden of showing, through reasonably verifiable evidence, that the rank was legitimately obtained where substantial evidence of cheating, manipulation, fraud, or other prohibited conduct exists.
+
+A person whose permission has been terminated or revoked under this Section may qualify again only by independently satisfying all requirements of this License using a legitimately obtained eligible rank, unless the copyright holder expressly states otherwise.
+
+Nothing in this Section requires the copyright holder to recognize a rank obtained through conduct that undermines the competitive integrity upon which the rank condition of this License is based.
+
+21. Distribution Without Modification
+
+Any person may use, copy, distribute, and sell unmodified copies of the Software, including source code and compiled binaries, regardless of competitive rank.
+
+No attribution to the copyright holder is required.
+
+Distribution of an unmodified copy does not, by itself, grant the distributor permission to modify, sublicense, or re-license the Software beyond the permissions expressly granted by this License.
+
+22. Sublicensing and Re-Licensing
+
+Subject to Section 20, a person who is permitted to modify the Software under this License is also permitted to copy, distribute, sublicense, and/or re-license the Software, including modified or unmodified copies, under any license of that person's choice.
+
+This includes, without limitation:
+
+- the GNU General Public License;
+- any version of the GNU Lesser General Public License;
+- the MIT License;
+- the Apache License 2.0;
+- BSD licenses;
+- proprietary licenses; or
+- any other license selected by that person.
+
+Where the person's authority was validly obtained and remains valid under this License, recipients of a valid sublicense or re-license may rely upon the permissions granted by that new license, and their rights under that license do not depend upon their own Overwatch competitive rank.
+
+Where the person's authority is later determined to have been invalid because of Section 20, any purported sublicense or re-license derived solely from that invalid authority is subject to Section 20.
+
+23. Persons Without a Higher Competitive Rank
+
+Except as otherwise expressly permitted by this License or by applicable law, a person who does not have a Higher Competitive Rank than the copyright holder is not granted permission to:
+
+(a) modify the Software;
+
+(b) create derivative works based upon the Software;
+
+(c) sublicense the Software; or
+
+(d) re-license the Software.
+
+Nothing in this License restricts any right that cannot lawfully be restricted by copyright license, including any applicable statutory exception or limitation to copyright.
+
+24. Changes to Overwatch's Name
+
+A change to the title of Overwatch does not by itself affect this License.
+
+References in this License to "Overwatch" include the game previously marketed as "Overwatch 2" and the same continuously operated game under any later replacement or successor title adopted by Blizzard Entertainment.
+
+A mere renaming, rebranding, or removal or addition of a numeral or subtitle does not create a separate game for purposes of this License.
+
+25. Changes to the Ranking System
+
+If Blizzard Entertainment changes the names, structure, tiers, divisions, roles, queues, placement system, platform classifications, cross-platform matchmaking system, or other characteristics of the competitive ranking system, the provisions of this License shall be interpreted, where reasonably possible, according to the closest functional equivalent of the ranking categories described in this License.
+
+For console platforms, a replacement or successor matchmaking system shall qualify for the combined console category only if it reasonably preserves the concept of a shared or cross-platform console competitive matchmaking environment.
+
+A newly introduced competitive mode shall not automatically be treated as equivalent to Open Queue or Role Queue merely because it contains a competitive ranking system.
+
+Unless such a mode is reasonably identifiable as a replacement or continuation of Open Queue or Role Queue, it shall not be used to establish a Higher Competitive Rank under this License.
+
+26. Third-Party Rights
+
+This License applies only to copyright and other rights controlled by the copyright holder.
+
+Nothing in this License grants rights to third-party software, assets, libraries, game content, trademarks, names, or other materials that may be included with, incorporated into, referenced by, or used together with the Software and that are subject to separate rights or licenses.
+
+"Overwatch", "Overwatch 2", "Blizzard", "Blizzard Entertainment", Battle.net, OP.GG, and related names or marks are used solely for identification and reference.
+
+This License does not claim ownership of, sponsorship by, endorsement by, or affiliation with Blizzard Entertainment, OP.GG, or any other third party.
+
+27. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, LOSSES, MISUSE, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE, MODIFICATION, DISTRIBUTION, SALE, SUBLICENSING, RE-LICENSING, OR OTHER DEALINGS IN THE SOFTWARE.
+
+28. Severability
+
+If any provision of this License is held unenforceable, invalid, or inapplicable under applicable law, the remaining provisions shall continue to apply to the maximum extent permitted by law.
+
+29. Interpretation
+
+Headings are provided for convenience only and do not affect interpretation.
+
+The competitive-rank condition in this License is intentional and literal.
+
+Permission to modify the Software is conditioned upon the person making the modification having a Higher Competitive Rank than the copyright holder according to the rules stated in this License.
+
+The fact that this condition refers to a competitive video game ranking system does not make the condition optional, illustrative, or merely humorous.
+
+
+30. Repository Scope and Upstream rclone Pull Request Exception
+
+This Section is an express exception added for the MYBOX contributions in this
+repository. It prevails over any conflicting provision in Sections 1 through 29.
+
+30.1 Covered Contributions
+
+For this repository, "Software" under this License means only the original
+NAVER MYBOX contributions made in this repository (the "MYBOX Contributions"),
+to the extent that the person applying this License controls the relevant rights:
+
+(a) the source code and tests under backend/mybox/;
+(b) docs/content/mybox.md and docs/data/backends/mybox.yaml; and
+(c) the MYBOX-specific additions to README.md, backend/all/all.go,
+    bin/make_manual.py, docs/content/_index.md, docs/content/docs.md, and
+    docs/layouts/chrome/navbar.html.
+
+This License does not replace or restrict the licenses of pre-existing rclone
+code, documentation, or third-party material, including any such material
+incorporated into the MYBOX Contributions. The original rclone MIT license and
+copyright notice remain in COPYING. Those notices must be preserved as required
+by their original licenses. A binary containing both rclone and the MYBOX
+Contributions contains material under both sets of applicable terms.
+Nothing in this License revokes or limits rights already validly granted under
+MIT or another license in an earlier copy of any covered material.
+
+30.2 Limited Upstream Contribution Permission
+
+Regardless of Overwatch competitive rank, any person may use, copy, modify,
+build, test, and distribute the MYBOX Contributions solely for the purpose of
+preparing, submitting, reviewing, or revising a bona fide pull request to the
+original rclone repository at:
+
+https://github.com/rclone/rclone
+
+This includes development branches, forks, patches, and test builds reasonably
+necessary for that pull request, and changes made in response to upstream review.
+A separate general-purpose fork, release, or commercial distribution does not
+qualify for this exception merely because it mentions a possible future pull
+request. Such uses require permission under Sections 1 through 29 or another
+applicable grant.
+
+For this qualifying contribution purpose, permission is expressly granted to
+submit and license the MYBOX Contributions, including modifications made for
+that purpose, under the MIT License used by rclone. The applicable MIT terms
+are the permission grant, notice condition, and warranty/liability disclaimer
+reproduced in this repository's COPYING; existing copyright notices must be
+preserved. This exception authorizes replacing this License and references to
+it in the upstream contribution with the appropriate MIT licensing notice.
+
+30.3 Rights in the MIT-Licensed Submission
+
+Once MYBOX Contributions are submitted under the MIT License pursuant to
+Section 30.2, upstream maintainers and all subsequent recipients of that
+MIT-licensed submission may exercise the full rights granted by the MIT License,
+including review, modification, merging, use, redistribution, sublicensing,
+and sale. Those rights are not limited to pull request activity, do not depend
+on an Overwatch rank, and are not contingent on the pull request being accepted
+or merged. Closing, rejecting, or withdrawing the pull request does not revoke
+MIT rights already granted in the submitted material. Section 20 does not revoke
+rights validly granted under this rank-independent exception.
+
+This Section does not make every copy or future version of the MYBOX
+Contributions available under MIT for unrelated purposes before an authorized
+MIT submission. It does not reduce any permission independently available under
+Sections 1 through 29, including Section 22, or under an existing MIT grant.
+
+30.4 Source of the Base License
+
+Sections 1 through 29 above reproduce Overwatch License Revision 3 from:
+https://github.com/U-siro/Overwatch-License
+Commit: 454be72217a1a8bbf3388194b438dc64abe69fed
+
+Section 30 is a repository-specific addition and is not part of the unmodified
+Overwatch License Revision 3.

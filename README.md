@@ -1,3 +1,9 @@
+> **NAVER MYBOX support:** This repository adds a `mybox` backend to rclone.
+> See the [MYBOX setup and usage guide](docs/content/mybox.md) for configuration,
+> supported operations, and limitations. The MYBOX additions use
+> [Overwatch License Revision 3 with an upstream rclone PR exception](MYBOX-LICENSE);
+> existing rclone code retains its MIT license.
+
 <!-- markdownlint-disable-next-line first-line-heading no-inline-html -->
 [<img src="https://rclone.org/img/logo_on_light__horizontal_color.svg" width="50%" alt="rclone logo">](https://rclone.org/#gh-light-mode-only)
 <!-- markdownlint-disable-next-line no-inline-html -->
@@ -87,6 +93,7 @@ directories to and from different cloud storage providers.
 - Microsoft Azure Files Storage [:page_facing_up:](https://rclone.org/azurefiles/)
 - Microsoft OneDrive [:page_facing_up:](https://rclone.org/onedrive/)
 - Minio [:page_facing_up:](https://rclone.org/s3/#minio)
+- NAVER MYBOX [:page_facing_up:](docs/content/mybox.md)
 - Nextcloud [:page_facing_up:](https://rclone.org/webdav/#nextcloud)
 - Blomp Cloud Storage [:page_facing_up:](https://rclone.org/swift/)
 - OpenDrive [:page_facing_up:](https://rclone.org/opendrive/)
@@ -193,5 +200,12 @@ Please see the [rclone website](https://rclone.org/) for:
 
 ## License
 
-This is free software under the terms of the MIT license (check the
+The NAVER MYBOX additions in this repository are licensed under
+[Overwatch License Revision 3 with an upstream rclone PR exception](MYBOX-LICENSE).
+The exception permits qualifying contributions to
+[rclone/rclone](https://github.com/rclone/rclone) under rclone's MIT license;
+recipients of such MIT submissions retain the full MIT permissions.
+This applies only to the MYBOX contributions identified in that license.
+
+The pre-existing rclone software remains under the MIT license (check the
 [COPYING file](/COPYING) included in this package).

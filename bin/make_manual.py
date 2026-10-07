@@ -70,6 +70,7 @@ docs = [
     "mailru.md",
     "mega.md",
     "memory.md",
+    "mybox.md",
     "netstorage.md",
     "azureblob.md",
     "azurefiles.md",
